@@ -33,7 +33,7 @@ A beginner-friendly Python project that extracts EXIF metadata (including GPS co
 ### Step 1: Clone the repository (or download ZIP)
 
 ```bash
-git clone https://github.com/yourusername/osint-metadata.git
+git clone https://github.com/rathishc12/osint-metadata.git
 cd osint-metadata
 
 ```
